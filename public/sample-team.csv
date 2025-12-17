@@ -1,0 +1,7 @@
+id,name,email,role,department,salary,startDate
+1,Alice Williams,alice@example.com,Senior Engineer,Engineering,125000,2020-01-10
+2,Charlie Brown,charlie@example.com,QA Engineer,Quality Assurance,80000,2022-05-15
+3,Diana Prince,diana@example.com,DevOps Engineer,Engineering,105000,2021-11-20
+4,Eve Martinez,eve@example.com,Data Analyst,Analytics,90000,2023-02-01
+5,Frank Miller,frank@example.com,Marketing Manager,Marketing,95000,2022-07-12
+6,Grace Lee,grace@example.com,HR Manager,Human Resources,88000,2021-09-05

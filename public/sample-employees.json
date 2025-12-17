@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "salary": 95000,
+    "startDate": "2022-01-15",
+    "address": {
+      "street": "123 Main St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94103"
+    },
+    "skills": ["JavaScript", "TypeScript", "React", "Node.js"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "role": "Product Manager",
+    "department": "Product",
+    "salary": 110000,
+    "startDate": "2021-06-20",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "skills": ["Product Strategy", "Analytics", "Leadership"]
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "role": "Designer",
+    "department": "Design",
+    "salary": 85000,
+    "startDate": "2023-03-10",
+    "address": {
+      "street": "789 Elm Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78701"
+    },
+    "skills": ["UI Design", "UX Research", "Figma", "Prototyping"]
+  }
+]
