@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   title: "QuickConvert - JSON ↔ CSV Converter",
   description:
     "QuickConvert — Fast, private file format conversion in your browser. Convert JSON to CSV and CSV to JSON instantly. No uploads, no tracking, completely free.",
+  verification: {
+    google: "wNLLBArcWl7sYcxO5vyOCsUDzp8z0rDW9PsHRV3CFq8",
+  },
   keywords: [
     "JSON to CSV converter",
     "CSV to JSON tool",
